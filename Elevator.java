@@ -41,8 +41,7 @@ public class Elevator
 
 	public final void emergencyStop()
 	{
-		System.out.print("Lift "+number+": "+"emergencyStop");
-		System.out.print("\n");
+		System.out.println("Lift "+number+": "+"emergencyStop");
 		run = false;
 		upQ.clear();
 		downQ.clear();
