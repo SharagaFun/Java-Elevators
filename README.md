@@ -1,3 +1,3 @@
-Elevators simulator
+# Elevators simulator
 
 [Задание](task.md)
